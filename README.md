@@ -1,6 +1,6 @@
 #Olá :rocket::computer::rocket:
 
-Sou Gilvani Sousa, cursando programação, criando projetos linguagem: HTML,CSS, inicializando JavaScript.
+Sou Gilvani Sousa, cursando programação, criando projetos ultilizando as tecnologias: HTML,CSS,JavaScript e Node.js.
 <br>
 <br>
   .<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML"/>
