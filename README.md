@@ -135,13 +135,15 @@ Me chamo Gilvani da Silva Sousa, tenho 34 anos e moro em São Paulo - SP . Ensin
 
  <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
+    width="450"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=gil-sousa2180&show_icons=true&theme=tokyonight&include_all_commts=true&locale=pt-br" 
   />
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats"
+      width="400"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gil-sousa2180&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
