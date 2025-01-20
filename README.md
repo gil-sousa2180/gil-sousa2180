@@ -120,14 +120,9 @@ Me chamo Gilvani da Silva Sousa, tenho 34 anos e moro em São Paulo - SP . Ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-
-
-
+<br/>
 <br/>
 
----
-
-<br/>
 
 ### 📊 Estatísticas
 
